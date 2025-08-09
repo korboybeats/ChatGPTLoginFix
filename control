@@ -1,0 +1,9 @@
+Package: xyz.cypwn.chatgptloginfix
+Name: ChatGPTLoginFix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Adds a share sheet option to paste a ChatGPT session token (obtained from the __Secure-next-auth.session-token cookie in your browser's developer tools), enabling logging into ChatGPT in Safari on older iOS versions.
+Maintainer: Korboy <korboybeats@gmail.com>
+Author: Korboy <korboybeats@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
