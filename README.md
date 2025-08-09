@@ -1,4 +1,6 @@
-# ChatGPTLoginFix
+<p align="center">
+  <img src="icon.png" width="200" alt="ChatGPTLoginFix Icon">
+</p>
 
 ## Description
 **ChatGPTLoginFix** adds a share sheet option to paste a ChatGPT session token (obtained from the `__Secure-next-auth.session-token` cookie in your browser's developer tools), enabling logging into ChatGPT in Safari on older iOS versions.
