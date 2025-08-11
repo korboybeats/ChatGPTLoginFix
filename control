@@ -6,4 +6,5 @@ Description: Adds a share sheet option to paste a ChatGPT session token (obtaine
 Maintainer: Korboy <korboybeats@gmail.com>
 Author: Korboy <korboybeats@gmail.com>
 Section: Tweaks
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/chatgptloginfix.png
 Depends: mobilesubstrate (>= 0.9.5000)
